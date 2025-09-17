@@ -1,38 +1,38 @@
-# 🛒 Carrito de Compras – Proyecto Herramientas de Desarrollo
----
-## 📘 Descripción del Proyecto
-Este proyecto tiene como finalidad la creación de una aplicación web para la tienda online (nombre), donde se realizará acciones según el rol escogido (usuario o administrador)...
+## Tecnologia y procesos actuales
+El emprendimiento usa las redes sociales para poder llegar a los usuarios como, por
+ejemplo: TikTok, Instagram y WhatsApp. Usa estas herramientas para poder estar en
+contacto y por esos mismos medios realizar las compras de las prendas. Si integramos más
+herramientas digitales como es el caso del aplicativo web, tendríamos un mayor alcance,
+puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de pedidos.
 
-## 🛠️ Tecnologías Utilizadas
-- Python / Node.js / etc.
-- Git / GitHub
-- Base de datos...
+## Estrategias
 
-## 🚀 Instalación y Ejecución
-Pasos para instalar y correr el proyecto...
+|  Expancion de servicios  |  Seguridad y cumplimiento  |
+|--------------------------|----------------------------|
+|Promociones exclusivas a través de las redes sociales para llegar a más usuarios y visualizaciones.|Respetar las políticas de privacidad para proteger los datos personales de las clientas.|
+|Envíos mediante agencias como Shalom, a nivel nacional.|Actualización constante sobre el inventario.|
+|Catálogo con prendas accesibles y colores disponibles.|
+|Seguir con los canales de difusión.|
 
-## 👥 Roles y Créditos
-| Nombre | Rol | Funciones |
-|--------|-----|-----------|
-| Cristian  | Jefe de Proyecto | Coordinación del equipo, gestión de reuniones y planificación de tareas |
-| Fabricio | Responsable de Control de Versiones | Administración del repositorio en Git/GitHub, creación y control de ramas, integración de cambios y resolución de conflictos |
-| Sandro | Desarrollador Backend | Implementación de APIs, integración con la base de datos y desarrollo de la lógica de negocio |
-| Víctor | Desarrollador Frontend | Diseño y desarrollo de interfaces, maquetación responsiva y consumo de APIs |
-| (nombrre) | . | . |
+## Planes de la empresa
 
-## 🔄 Flujo de Trabajo en Git
-- Estructura de ramas: `feature/`, `fix/`
-- Ejemplo de commit atómico:
-  ```bash
-  git commit -m "feat: agregar funcionalidad para eliminar producto del carrito"
+|Expancion de servicios|Seguridad y cumplimiento|
+|----------------------|------------------------|
+|Ampliar la red de alcance de la tienda con campañas en las redes sociales, realizar alianzas con influencers y la integración de métodos de pagos modernos como Yape, Plin y tarjetas de crédito.|Implementar controles de seguridad de los datos de las personas, mantener actualizadas las contraseñas, y poder estar capacitados para la atención al cliente a través de los manuales de usuario y administración|
 
-## 🖼️ Capturas de Pantalla
----
-### 🏠 Página Principal
----
-![Página principal](./screenshots/home.png)
----
-### 🛍️ Lista de Productos
----
-### 🛒 Carrito de Compras
----
+## Alcances
+El presente proyecto abarca el desarrollo e implementación de un aplicativo web para la
+boutique online, con el objetivo de mejorar la experiencia de compra de las clientas. Se
+contemplan funcionalidades clave que permitirán gestionar productos, pedidos y datos de
+manera eficiente y segura, además de asegurar un diseño atractivo, estable y adaptable a
+futuras mejoras
+
+## Limitaciones
+El proyecto presenta algunas limitaciones propias de un emprendimiento nuevo. Estas
+pueden influir en el desarrollo y funcionamiento del aplicativo web.
+- **Presupuesto limitado:** Debido a que es un emprendimiento, suele pasar que no se tiene
+un amplio presupuesto para poder implementar nuevas tecnologías, lo cual puede
+restringir la inversión en los desarrolladores.
+- **Gestión manual del inventario:** Al realizar manualmente, puede generar errores
+comunes al momento de los cálculos, como la falta de actualización de stock y mucho
+más.
