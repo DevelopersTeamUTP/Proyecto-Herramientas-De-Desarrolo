@@ -46,7 +46,7 @@ puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de
 
 ## 📈 Estrategias
 
-|  Expancion de servicios  |  Seguridad y cumplimiento  |
+|  Expansión y Marketing  |  Seguridad y Operaciones  |
 |--------------------------|----------------------------|
 |Promociones exclusivas a través de las redes sociales para llegar a más usuarios y visualizaciones.|Respetar las políticas de privacidad para proteger los datos personales de las clientas.|
 |Envíos mediante agencias como Shalom, a nivel nacional.|Actualización constante sobre el inventario.|
@@ -55,7 +55,7 @@ puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de
 
 ## 🗺️ Planes de la empresa
 
-|Expancion de servicios|Seguridad y cumplimiento|
+|Objetivos de Expansión|Planes de Seguridad|
 |----------------------|------------------------|
 |Ampliar la red de alcance de la tienda con campañas en las redes sociales, realizar alianzas con influencers y la integración de métodos de pagos modernos como Yape, Plin y tarjetas de crédito.|Implementar controles de seguridad de los datos de las personas, mantener actualizadas las contraseñas, y poder estar capacitados para la atención al cliente a través de los manuales de usuario y administración|
 
