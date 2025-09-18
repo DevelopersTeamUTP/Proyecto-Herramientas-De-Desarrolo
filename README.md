@@ -92,6 +92,61 @@ más.
   git commit -m "feat: agregar funcionalidad para eliminar producto del carrito"
 
 ## 🖼️ Capturas de Pantalla
+## 📸 Capturas del Proceso
+
+### 1. Clonación del Repositorio
+![Clonación inicial](./-images-/captura%20inicial%20de%20clonacion%20de%20repo.png)
+
+### 2. Uso de Comandos
+- **Comando 1**
+  
+  ![Comandos 1](./-images-/comandos%201.png)
+
+- **Comando 2**
+  
+  ![Comandos 2](./-images-/comandos%202.png)
+
+- **Comando 3**
+  
+  ![Comandos 3](./-images-/comandos%203.png)
+
+- **Comando 4**
+  
+  ![Comandos 4](./-images-/comandos%204.png)
+
+- **Comando 5**
+  
+  ![Comandos 5](./-images-/comandos%205.png)
+
+- **Comando 6**
+  
+  ![Comandos 6](./-images-/comandos%206.png)
+
+### 3. Manejo de Pull Requests
+- **Primer Pull Request**
+  ![Pull Request](./-images-/captura%20de%20pull%20request.png)
+
+- **Segundo Pull Request**
+  ![Segundo Pull Request](./-images-/segundo%20pull%20request.png)
+  ![Segundo Pull Request (2)](./-images-/sgundo%20pull%20request.png)
+
+### 4. Manejo de Conflictos
+- **Archivo en conflicto - versión actual**
+  ![Conflicto actual](./-images-/conflicto%20-%20actual.png)
+
+- **Archivo en conflicto - versión entrante**
+  ![Conflicto entrante](./-images-/conflicto%20-%20entrante.png)
+
+- **Conflicto creado**
+  ![Conflicto creado](./-images-/conflicto%20creado.png)
+
+### 5. Aprobación del Merge
+- **Merge a la rama**
+  ![Merge aprobado 1](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main.png)
+
+- **Merge confirmado**
+  ![Merge aprobado 2](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main%202.png)
+
 ---
 ### 🏠 Página Principal
 ---
