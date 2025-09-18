@@ -201,12 +201,3 @@ funcionalidades en el futuro
 - **Merge confirmado**
   ![Segundo Pull Request (2)](./-images-/sgundo%20pull%20request.png)
 
----
-### 🏠 Página Principal
----
-![Página principal](./screenshots/home.png)
----
-### 🛍️ Lista de Productos
----
-### 🛒 Carrito de Compras
----
