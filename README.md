@@ -19,15 +19,6 @@ git clone https://github.com/FabricioUTP/Proyecto-Herramientas-De-Desarrolo.git
 
 cd Proyecto-Herramientas-De-Desarrolo
 ```
-## 👥 Roles y Créditos
-| Nombre | Rol | Funciones |
-|--------|-----|-----------|
-| Cristian  | Jefe de Proyecto | Coordinación del equipo, gestión de reuniones y planificación de tareas |
-| Fabricio | Responsable de Control de Versiones | Administración del repositorio en Git/GitHub, creación y control de ramas, integración de cambios y resolución de conflictos |
-| Sandro | Desarrollador Backend | Implementación de APIs, integración con la base de datos y desarrollo de la lógica de negocio |
-| Víctor | Desarrollador Frontend | Diseño y desarrollo de interfaces, maquetación responsiva y consumo de APIs |
-| Yefli | Desarrollador Full Stack | Diseño y desarrollo de la interfaz de usuario y la lógica del servidor, lo que incluye la gestión de bases de datos, APIs y la experiencia de usuario |
-
 ## 💡 Introducción
 Boutique Online Mar de Moda es un emprendimiento dedicado a la venta de ropa
 femenina a través de una plataforma web. Nos especializamos en prendas superiores como
@@ -67,6 +58,15 @@ puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de
 |Expancion de servicios|Seguridad y cumplimiento|
 |----------------------|------------------------|
 |Ampliar la red de alcance de la tienda con campañas en las redes sociales, realizar alianzas con influencers y la integración de métodos de pagos modernos como Yape, Plin y tarjetas de crédito.|Implementar controles de seguridad de los datos de las personas, mantener actualizadas las contraseñas, y poder estar capacitados para la atención al cliente a través de los manuales de usuario y administración|
+
+## 👥 Roles y Créditos
+| Nombre | Rol | Funciones |
+|--------|-----|-----------|
+| Cristian  | Jefe de Proyecto | Coordinación del equipo, gestión de reuniones y planificación de tareas |
+| Fabricio | Responsable de Control de Versiones | Administración del repositorio en Git/GitHub, creación y control de ramas, integración de cambios y resolución de conflictos |
+| Sandro | Desarrollador Backend | Implementación de APIs, integración con la base de datos y desarrollo de la lógica de negocio |
+| Víctor | Desarrollador Frontend | Diseño y desarrollo de interfaces, maquetación responsiva y consumo de APIs |
+| Yefli | Desarrollador Full Stack | Diseño y desarrollo de la interfaz de usuario y la lógica del servidor, lo que incluye la gestión de bases de datos, APIs y la experiencia de usuario |
 
 ## ✅ Alcances
 El presente proyecto abarca el desarrollo e implementación de un aplicativo web para la
