@@ -85,6 +85,31 @@ restringir la inversión en los desarrolladores.
 comunes al momento de los cálculos, como la falta de actualización de stock y mucho
 más.
 
+## Requerimientos
+### Funcionales
+- El aplicativo web permite el registro de nuevos usuario mediante un formulario.
+- El aplicativo web debe permite el inicio de sesión por correo y contraseña.
+- El aplicativo web mostrará el catálogo de prendas filtrando por categorías y temporadas.
+- El aplicativo web permite añadir productos al carrito de compras.
+- El aplicativo web muestra el detalle de cada compra y prenda.
+- El aplicativo web permite realizar el pedido y obtiene una confirmación de compra.
+- El aplicativo web permite el seguimiento del estado del pedido.
+- El aplicativo web debe enviar notificaciones sobre las promociones, ofertas de los productos.
+- El aplicativo web ofrece recomendaciones personalizadas según las preferencias del cliente.
+- El aplicativo web permite al administrador iniciar sesión de forma segura.
+- El aplicativo web permite gestionar, editar, eliminar productos del catálogo.
+- El aplicativo web permite actualizar el stock de los productos, mantenerlo actualizado.
+- El aplicativo web genera reportes de ventas semanales o mensuales.
+- El aplicativo web permite ver gestionar los pedidos realizados por el usuario.
+- El aplicativo web le permite realizar publicaciones.
+### No funcionales
+- El aplicativo web debe proteger los datos personales de los usuarios.
+- El aplicativo web debe tener una interfaz clara e intuitiva que sea fácil de usar.
+- La aplicación web debe tener un tiempo prudente para poder recibir la información de los pedidos.
+- El aplicativo web debe ser compatible con los navegadores.
+- La arquitectura de la aplicación web le debe permitir agregar nuevas
+funcionalidades en el futuro
+
 ## 🔄 Flujo de Trabajo en Git
 1. Clonar el repositorio:
  ```bash
