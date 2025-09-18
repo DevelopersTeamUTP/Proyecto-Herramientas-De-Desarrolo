@@ -86,10 +86,40 @@ comunes al momento de los cálculos, como la falta de actualización de stock y 
 más.
 
 ## 🔄 Flujo de Trabajo en Git
-- Estructura de ramas: `feature/`, `fix/`
-- Ejemplo de commit atómico:
-  ```bash
-  git commit -m "feat: agregar funcionalidad para eliminar producto del carrito"
+1. Clonar el repositorio:
+ ```bash
+ git clone https://github.com/FabricioUTP/Proyecto-Herramientas-De-Desarrolo
+ cd Proyecto-Herramientas-De-Desarrolo
+ ```
+2. Crear una nueva rama:
+ ```bash
+ git checkout -b rama-Cristian-Adriano
+ ```
+3. Revisar estado y añadir cambios:
+ ```bash
+ git status
+ git add .
+ ```
+4. Realizar un commit:
+ ```bash
+ git commit -m "README.md actualizado con el conflicto arreglado"
+ ```
+5. Volver a la rama principal:
+ ```bash
+ git checkout main
+ ```
+6. Ver los remotos configurados:
+ ```bash
+ git remote -v
+ ```
+7. Ver historial de commits en una sola línea:
+ ```bash
+ git log --oneline
+ ```
+8. Crear un tag (versión)
+ ```bash
+ git tag -a v1.0.0 -m "Primera version con capturas"
+ ```
 
 ## 🖼️ Capturas de Pantalla
 ## 📸 Capturas del Proceso
@@ -125,10 +155,10 @@ más.
 ### 3. Manejo de Pull Requests
 - **Primer Pull Request**
   ![Pull Request](./-images-/captura%20de%20pull%20request.png)
-
-- **Segundo Pull Request**
-  ![Segundo Pull Request](./-images-/segundo%20pull%20request.png)
-  ![Segundo Pull Request (2)](./-images-/sgundo%20pull%20request.png)
+- **Merge a la rama**
+  ![Pull Request](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main.png)
+- **Merge confirmado**
+  ![Pull Request](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main%202.png)
 
 ### 4. Manejo de Conflictos
 - **Archivo en conflicto - versión actual**
@@ -142,10 +172,10 @@ más.
 
 ### 5. Aprobación del Merge
 - **Merge a la rama**
-  ![Merge aprobado 1](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main.png)
+  ![Segundo Pull Request](./-images-/segundo%20pull%20request.png)
 
 - **Merge confirmado**
-  ![Merge aprobado 2](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main%202.png)
+  ![Segundo Pull Request (2)](./-images-/sgundo%20pull%20request.png)
 
 ---
 ### 🏠 Página Principal
