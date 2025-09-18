@@ -1,4 +1,4 @@
-# Boutique Online Mar de Moda
+# 💃🛍️ Boutique Online Mar de Moda
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,7 +13,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ___
-## Instalación y ejecución
+## ⚙️ Instalación y ejecución
 ```bash
 git clone https://github.com/FabricioUTP/Proyecto-Herramientas-De-Desarrolo.git
 
@@ -28,32 +28,32 @@ cd Proyecto-Herramientas-De-Desarrolo
 | Víctor | Desarrollador Frontend | Diseño y desarrollo de interfaces, maquetación responsiva y consumo de APIs |
 | Yefli | Desarrollador Full Stack | Diseño y desarrollo de la interfaz de usuario y la lógica del servidor, lo que incluye la gestión de bases de datos, APIs y la experiencia de usuario |
 
-## Introducción
+## 💡 Introducción
 Boutique Online Mar de Moda es un emprendimiento dedicado a la venta de ropa
 femenina a través de una plataforma web. Nos especializamos en prendas superiores como
 blusas, tops y camisas, adaptadas a las tendencias actuales y a las necesidades de nuestras
 clientas. Nuestro enfoque combina estilo, comodidad y una experiencia de compra
 práctica, moderna y segura.
 
-## Misión
+## 🎯 Misión
 Brindar a nuestras clientas una experiencia única e innovadora de comprar ropas a través
 de un aplicativo web, de una manera moderna y segura desde cualquier lugar del Perú,
 ofreciéndoles prendas que se ajusten a los gustos de las clientas, según la temporada del
 año.
 
-## Visión
+## 🔭 Visión
 Nuestra visión es ser una marca reconocida a nivel nacional, como una de las mejores
 boutiques online, ofreciendo una experiencia digital intuitiva, un excelente servicio a
 través de nuestro aplicativo web, prendas de alta calidad y una buena gestión del servicio.
 
-## Tecnologia y procesos actuales
+## 💻 Tecnologia y procesos actuales
 El emprendimiento usa las redes sociales para poder llegar a los usuarios como, por
 ejemplo: TikTok, Instagram y WhatsApp. Usa estas herramientas para poder estar en
 contacto y por esos mismos medios realizar las compras de las prendas. Si integramos más
 herramientas digitales como es el caso del aplicativo web, tendríamos un mayor alcance,
 puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de pedidos.
 
-## Estrategias
+## 📈 Estrategias
 
 |  Expancion de servicios  |  Seguridad y cumplimiento  |
 |--------------------------|----------------------------|
@@ -62,20 +62,20 @@ puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de
 |Catálogo con prendas accesibles y colores disponibles.|
 |Seguir con los canales de difusión.|
 
-## Planes de la empresa
+## 🗺️ Planes de la empresa
 
 |Expancion de servicios|Seguridad y cumplimiento|
 |----------------------|------------------------|
 |Ampliar la red de alcance de la tienda con campañas en las redes sociales, realizar alianzas con influencers y la integración de métodos de pagos modernos como Yape, Plin y tarjetas de crédito.|Implementar controles de seguridad de los datos de las personas, mantener actualizadas las contraseñas, y poder estar capacitados para la atención al cliente a través de los manuales de usuario y administración|
 
-## Alcances
+## ✅ Alcances
 El presente proyecto abarca el desarrollo e implementación de un aplicativo web para la
 boutique online, con el objetivo de mejorar la experiencia de compra de las clientas. Se
 contemplan funcionalidades clave que permitirán gestionar productos, pedidos y datos de
 manera eficiente y segura, además de asegurar un diseño atractivo, estable y adaptable a
 futuras mejoras
 
-## Limitaciones
+## 🚫 Limitaciones
 El proyecto presenta algunas limitaciones propias de un emprendimiento nuevo. Estas
 pueden influir en el desarrollo y funcionamiento del aplicativo web.
 - **Presupuesto limitado:** Debido a que es un emprendimiento, suele pasar que no se tiene
@@ -85,7 +85,7 @@ restringir la inversión en los desarrolladores.
 comunes al momento de los cálculos, como la falta de actualización de stock y mucho
 más.
 
-## Requerimientos
+## 📝 Requerimientos
 ### Funcionales
 - El aplicativo web permite el registro de nuevos usuario mediante un formulario.
 - El aplicativo web debe permite el inicio de sesión por correo y contraseña.
@@ -146,7 +146,6 @@ funcionalidades en el futuro
  git tag -a v1.0.0 -m "Primera version con capturas"
  ```
 
-## 🖼️ Capturas de Pantalla
 ## 📸 Capturas del Proceso
 
 ### 1. Clonación del Repositorio
