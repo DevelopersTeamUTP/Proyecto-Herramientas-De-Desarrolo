@@ -1,7 +1,8 @@
-package com.intimoda.app.jpa.repository;
+package com.example.demo.jpa.repository;
 
-import com.intimoda.app.jpa.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.demo.jpa.Model.User;
 
 import java.util.Optional;
 
