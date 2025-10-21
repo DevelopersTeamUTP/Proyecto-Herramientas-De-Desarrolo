@@ -15,7 +15,7 @@
 ___
 ## ⚙️ Instalación y ejecución
 ```bash
-git clone https://github.com/FabricioUTP/Proyecto-Herramientas-De-Desarrolo.git
+git clone https://github.com/DevelopersTeamUTP/Proyecto-Herramientas-De-Desarrolo.git
 
 cd Proyecto-Herramientas-De-Desarrolo
 ```
@@ -113,7 +113,7 @@ funcionalidades en el futuro
 ## 🔄 Flujo de Trabajo en Git
 1. Clonar el repositorio:
  ```bash
- git clone https://github.com/FabricioUTP/Proyecto-Herramientas-De-Desarrolo
+ git clone https://github.com/DevelopersTeamUTP/Proyecto-Herramientas-De-Desarrolo
  cd Proyecto-Herramientas-De-Desarrolo
  ```
 2. Crear una nueva rama:
