@@ -1,13 +1,13 @@
 package com.example.demo.jpa.controller;
 
-import com.intimoda.app.jpa.model.Producto;
-import com.intimoda.app.jpa.repository.ProductoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import com.intimoda.app.services.ProductoService;
 import org.springframework.web.multipart.MultipartFile;
+
+import com.example.demo.jpa.Model.Producto;
+import com.example.demo.jpa.services.ProductoService;
 
 import java.io.IOException;
 

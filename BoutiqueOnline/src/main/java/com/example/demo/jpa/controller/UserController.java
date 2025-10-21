@@ -7,6 +7,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+
+import com.example.demo.jpa.Model.User;
+import com.example.demo.jpa.services.UserService;
+
 import org.springframework.web.bind.annotation.PathVariable;
 
 @Controller
