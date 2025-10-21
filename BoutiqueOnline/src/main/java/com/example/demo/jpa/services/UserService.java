@@ -1,4 +1,4 @@
-package com.intimoda.app.services;
+package com.example.demo.jpa.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import java.util.List;

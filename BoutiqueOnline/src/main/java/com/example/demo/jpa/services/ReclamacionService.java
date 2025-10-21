@@ -1,4 +1,4 @@
-package com.intimoda.app.services;
+package com.example.demo.jpa.services;
 
 import com.intimoda.app.jpa.model.Reclamacion;
 import com.intimoda.app.jpa.repository.ReclamacionRepository;
