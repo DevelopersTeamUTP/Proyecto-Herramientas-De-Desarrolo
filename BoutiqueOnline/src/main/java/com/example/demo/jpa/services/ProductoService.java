@@ -1,11 +1,12 @@
-package com.intimoda.app.services;
+package com.example.demo.jpa.services;
 
-import com.intimoda.app.jpa.repository.ProductoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import com.intimoda.app.jpa.model.Producto;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.multipart.MultipartFile;
+
+import com.example.demo.jpa.Model.Producto;
+import com.example.demo.jpa.repository.ProductoRepository;
 
 import java.io.IOException;
 import java.nio.file.Files;
