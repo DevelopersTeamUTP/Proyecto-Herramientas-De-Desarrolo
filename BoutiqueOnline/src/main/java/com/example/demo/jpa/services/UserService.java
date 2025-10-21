@@ -1,10 +1,11 @@
-package com.intimoda.app.services;
+package com.example.demo.jpa.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import java.util.List;
-import com.intimoda.app.jpa.repository.UserRepository;
-import com.intimoda.app.jpa.model.User;
 import org.springframework.stereotype.Service;
+
+import com.example.demo.jpa.Model.User;
+import com.example.demo.jpa.repository.UserRepository;
 
 import java.util.Optional;
 

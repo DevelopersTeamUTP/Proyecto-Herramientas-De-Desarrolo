@@ -1,9 +1,10 @@
-package com.intimoda.app.services;
+package com.example.demo.jpa.services;
 
-import com.intimoda.app.jpa.model.Reclamacion;
-import com.intimoda.app.jpa.repository.ReclamacionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.example.demo.jpa.Model.Reclamacion;
+import com.example.demo.jpa.repository.ReclamacionRepository;
 
 import java.util.List;
 
