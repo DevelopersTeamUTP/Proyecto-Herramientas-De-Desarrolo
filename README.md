@@ -204,7 +204,6 @@ funcionalidades en el futuro
 ![El administrador aprueba la revisión y deja un comentario](-images-/El%20administrador%20aprueba%20la%20revisión%20y%20deja%20un%20comentario.png)
 ![Revisión y aprobación del PR que cierra el issue #8](-images-/Revisión%20y%20aprobación%20del%20administrador%20del%20pull%20request%20que%20cierra%20el%20issue%20%238.png)
 ![Completar el merge con cierre de issue #8](-images-/Completar%20el%20merge%20a%20la%20rama%20main%20con%20el%20cierre%20de%20issue%238.png)
-![Una vez terminada la revisión se hace el merge](-images-/Una%20vez%20terminado%20la%20revisión%20se%20hace%20el%20merge.png)
 ![Segundo Pull Request](-images-/segundo%20pull%20request.png)
 ![Sgundo Pull Request](-images-/sgundo%20pull%20request.png)
 
