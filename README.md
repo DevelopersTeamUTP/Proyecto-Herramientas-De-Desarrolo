@@ -62,11 +62,11 @@ puesto que estaría con pasarelas de pago accesibles y un sistema de gestión de
 ## 👥 Roles y Créditos
 | Nombre | Rol | Funciones |
 |--------|-----|-----------|
-| Cristian  | Jefe de Proyecto | Coordinación del equipo, gestión de reuniones y planificación de tareas |
-| Fabricio | Responsable de Control de Versiones | Administración del repositorio en Git/GitHub, creación y control de ramas, integración de cambios y resolución de conflictos |
-| Sandro | Desarrollador Backend | Implementación de APIs, integración con la base de datos y desarrollo de la lógica de negocio |
-| Víctor | Desarrollador Frontend | Diseño y desarrollo de interfaces, maquetación responsiva y consumo de APIs |
-| Yefli | Desarrollador Full Stack | Diseño y desarrollo de la interfaz de usuario y la lógica del servidor, lo que incluye la gestión de bases de datos, APIs y la experiencia de usuario |
+| Cristian adriano condor | Jefe de Proyecto | Coordinación del equipo, gestión de reuniones y planificación de tareas |
+| Fabricio munives santamaría | Responsable de Control de Versiones | Administración del repositorio en Git/GitHub, creación y control de ramas, integración de cambios y resolución de conflictos |
+| Sandro bravo borjas| Desarrollador Backend | Implementación de APIs, integración con la base de datos y desarrollo de la lógica de negocio |
+| Víctor chavez dias| Desarrollador Frontend | Diseño y desarrollo de interfaces, maquetación responsiva y consumo de APIs |
+| Yefli bedon silva | Desarrollador Full Stack | Diseño y desarrollo de la interfaz de usuario y la lógica del servidor, lo que incluye la gestión de bases de datos, APIs y la experiencia de usuario |
 
 ## ✅ Alcances
 El presente proyecto abarca el desarrollo e implementación de un aplicativo web para la
