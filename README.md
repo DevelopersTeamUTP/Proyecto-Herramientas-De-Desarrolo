@@ -175,8 +175,59 @@ funcionalidades en el futuro
 - **Comando 6**
   
   ![Comandos 6](./-images-/comandos%206.png)
+  ### 3. Configuración de Reglas (Branch & Tags)
+*Evidencia de la configuración de reglas de ramas y tags, según la rúbrica.*
 
-### 3. Manejo de Pull Requests
+![Regla creada branch(1)](-images-/Regla%20creada%20branch(1).png)
+![Regla creada branch(2)](-images-/Regla%20creada%20branch(2).png)
+![Regla creada branch(3)](-images-/Regla%20creada%20branch(3).png)
+![Regla creada tag(1)](-images-/Regla%20creada%20tag(1).png)
+![Regla creada tag(2)](-images-/Regla%20creada%20tag(2).png)
+![Error al hacer push a main por reglas](-images-/Error%20al%20hacer%20un%20push%20a%20la%20rama%20main%20debido%20a%20las%20restricciones%20del%20branch%20rulesets.jpg)
+
+### 4. Gestión de Proyecto (Issues, Milestones y Tablero)
+*Evidencia de la gestión de tareas, hitos y el tablero visual del proyecto.*
+
+![Gestión de Issues](-images-/issues.png)
+![Gestión de Milestones](-images-/milestone.png)
+![Project Creado](-images-/Project%20creado.png)
+![Tablero de Project](-images-/tablero%20de%20Project.png)
+![Tablero](-images-/tablero.png)
+
+### 5. Flujo de Trabajo (Fork, PRs y Revisión Cruzada)
+*Evidencia del proceso de Fork, Pull Request, revisión por pares (revisión cruzada), aprobación y merge.*
+
+![Comandos git del fork (1)](-images-/Comandos%20git%20del%20fork%20(1).jpg)
+![Comandos git del fork (2)](-images-/Comandos%20git%20del%20fork%20(2).jpg)
+![El repositorio copia haciendo pull request al original](-images-/El%20repositorio%20copia%20haciendo%20pull%20request%20al%20repositorio%20original.png)
+![El pull request solicita la revisión del administrador](-images-/El%20pull%20request%20solicita%20la%20revisión%20del%20administrador%20del%20repositorio.png)
+![El administrador aprueba la revisión y deja un comentario](-images-/El%20administrador%20aprueba%20la%20revisión%20y%20deja%20un%20comentario.png)
+![Revisión y aprobación del PR que cierra el issue #8](-images-/Revisión%20y%20aprobación%20del%20administrador%20del%20pull%20request%20que%20cierra%20el%20issue%20%238.png)
+![Completar el merge con cierre de issue #8](-images-/Completar%20el%20merge%20a%20la%20rama%20main%20con%20el%20cierre%20de%20issue%238.png)
+![Segundo Pull Request](-images-/segundo%20pull%20request.png)
+![Sgundo Pull Request](-images-/sgundo%20pull%20request.png)
+
+### 6. Manejo de Conflictos
+*Evidencia de la detección y resolución de conflictos de merge.*
+
+![conflicto - actual](-images-/conflicto%20-%20actual.png)
+![conflicto - entrante](-images-/conflicto%20-%20entrante.png)
+![conflicto creado](-images-/conflicto%20creado.png)
+![Conflictos en pull request](-images-/Conflictos%20en%20pull%20request.png)
+![Conflictos en pull request (2)](-images-/Conflictos%20en%20pull%20request%20(2).png)
+![Conflictos en pull request (3)](-images-/Conflictos%20en%20pull%20request%20(3).png)
+
+### 7. Configuración de Organización y Commits
+*Evidencia de la creación de la organización y commits iniciales.*
+
+![Creación de la Organización](-images-/Creación%20de%20la%20Organización.png)
+![Repositorio agregado a la Organización](-images-/Repositorio%20agregado%20a%20la%20Organización.png)
+![Transferencia del repositorio a la Organización](-images-/transferencia%20del%20repositorio%20a%20la%20Organización.png)
+![Commit de License](-images-/commit%20license.jpg)
+![License subido al servidor](-images-/license%20subido%20al%20servidor.jpg)
+
+
+### 8. Manejo de Pull Requests
 - **Primer Pull Request**
   ![Pull Request](./-images-/captura%20de%20pull%20request.png)
 - **Merge a la rama**
@@ -184,7 +235,7 @@ funcionalidades en el futuro
 - **Merge confirmado**
   ![Pull Request](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main%202.png)
 
-### 4. Manejo de Conflictos
+### 9. Manejo de Conflictos
 - **Archivo en conflicto - versión actual**
   ![Conflicto actual](./-images-/conflicto%20-%20actual.png)
 
@@ -194,7 +245,7 @@ funcionalidades en el futuro
 - **Conflicto creado**
   ![Conflicto creado](./-images-/conflicto%20creado.png)
 
-### 5. Aprobación del Merge
+### 10. Aprobación del Merge
 - **Merge a la rama**
   ![Segundo Pull Request](./-images-/segundo%20pull%20request.png)
 
