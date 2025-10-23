@@ -236,7 +236,7 @@ funcionalidades en el futuro
 - **Merge confirmado**
   ![Pull Request](./-images-/aprobación%20del%20merge%20a%20la%20rama%20main%202.png)
 
-### 4. Manejo de Conflictos
+### 9. Manejo de Conflictos
 - **Archivo en conflicto - versión actual**
   ![Conflicto actual](./-images-/conflicto%20-%20actual.png)
 
@@ -246,7 +246,7 @@ funcionalidades en el futuro
 - **Conflicto creado**
   ![Conflicto creado](./-images-/conflicto%20creado.png)
 
-### 5. Aprobación del Merge
+### 10. Aprobación del Merge
 - **Merge a la rama**
   ![Segundo Pull Request](./-images-/segundo%20pull%20request.png)
 
