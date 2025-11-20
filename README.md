@@ -305,7 +305,7 @@ _Evidencia de la creación de la organización y commits iniciales._
   ![segundo milestone](./-images-/hotfix-critico.png)
 
 - **Se localiza el código donde se debe solucionar el error**
-  ![segundo milestone](./-images-/errorDb.png)
+  ![segundo milestone](./-images-/errorDB.png)
 - **Se crea la rama ‘fix’, se soluciona el problema y se hace un ‘push’ de la rama al repositorio**
   ![segundo milestone](./-images-/ramaFix.png)
 
