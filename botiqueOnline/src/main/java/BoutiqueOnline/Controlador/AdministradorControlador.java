@@ -7,7 +7,7 @@ import BoutiqueOnline.Servicio.ProductoServicioImple;
 import BoutiqueOnline.modelo.Orden;
 import BoutiqueOnline.modelo.Producto;
 import BoutiqueOnline.modelo.Usuario;
-import BoutiqueOnline.servicio.*;
+import BoutiqueOnline.Servicio.*;
 import BoutiqueOnline.util.ListarUsuariosExcel;
 import jakarta.servlet.http.HttpSession;
 import java.util.List;
@@ -96,7 +96,7 @@ public class AdministradorControlador {
     //Formulario para editar usuario
     @GetMapping("/usuario/editarUsuario/{id}")
     public String editarUsuario(@PathVariable("id") Integer id, Model model) {
-        Usuario usuario = usuarioServicio.finsById(id).orElse(null);
+        Usuario usuario = usuarioServicio.findById(id).orElse(null);
         model.addAttribute("usuario", usuario);
         return "usuario/edit";
     }

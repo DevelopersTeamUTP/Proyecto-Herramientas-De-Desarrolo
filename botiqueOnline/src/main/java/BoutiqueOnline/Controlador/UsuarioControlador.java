@@ -5,8 +5,8 @@ import BoutiqueOnline.Servicio.ProductoServicio;
 import BoutiqueOnline.Servicio.UploadFileService;
 import BoutiqueOnline.modelo.Orden;
 import BoutiqueOnline.modelo.Usuario;
-import BoutiqueOnline.servicio.EmailService;
-import BoutiqueOnline.servicio.UsuarioServicio;
+import BoutiqueOnline.Servicio.EmailService;
+import BoutiqueOnline.Servicio.UsuarioServicio;
 import BoutiqueOnline.util.FacturaPDFUtil;
 import com.mercadopago.MercadoPago;
 import com.mercadopago.resources.Preference;
@@ -122,7 +122,7 @@ public class UsuarioControlador {
     public String obtnerCompras(Model model, HttpSession session) {
         model.addAttribute("session", session.getAttribute("idusuario"));
 
-        Usuario usuario = usuarioServicio.finsById(Integer.parseInt(session.getAttribute("idusuario").toString())).get();
+        Usuario usuario = usuarioServicio.findById(Integer.parseInt(session.getAttribute("idusuario").toString())).get();
         List<Orden> ordenes = ordenServicio.findByUsuario(usuario);
         model.addAttribute("ordenes", ordenes);
 
@@ -255,7 +255,7 @@ public class UsuarioControlador {
             HttpSession session) throws IOException {
 
         // Obtener usuario actual (por seguridad)
-        Usuario usuarioActual = usuarioServicio.finsById(usuario.getId()).orElse(null);
+        Usuario usuarioActual = usuarioServicio.findById(usuario.getId()).orElse(null);
 
         // Actualizar campos
         usuarioActual.setNombre(usuario.getNombre());

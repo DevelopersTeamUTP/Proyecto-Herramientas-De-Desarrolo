@@ -4,7 +4,7 @@ import BoutiqueOnline.Servicio.ProductoServicio;
 import BoutiqueOnline.Servicio.UploadFileService;
 import BoutiqueOnline.modelo.Producto;
 import BoutiqueOnline.modelo.Usuario;
-import BoutiqueOnline.servicio.UsuarioServicio;
+import BoutiqueOnline.Servicio.UsuarioServicio;
 import BoutiqueOnline.util.ListarProductosExcel;
 import BoutiqueOnline.util.ListarProductosPdf;
 import jakarta.servlet.http.HttpSession;
@@ -84,7 +84,7 @@ public class ProductoControlador {
     public String save(Producto producto, @RequestParam("img") MultipartFile file, HttpSession session) throws IOException {
         LOGGER.info("\nEste es el objeto producto {}: ", producto);
         
-        Usuario u = usuarioServicio.finsById(Integer.parseInt(session.getAttribute("idusuario").toString())).get();
+        Usuario u = usuarioServicio.findById(Integer.parseInt(session.getAttribute("idusuario").toString())).get();
 
         producto.setUsuario(u);
 
