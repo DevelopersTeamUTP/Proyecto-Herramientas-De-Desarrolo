@@ -2,7 +2,7 @@
 package BoutiqueOnline.Servicio;
 
 import BoutiqueOnline.modelo.Usuario;
-import BoutiqueOnline.Servicio.UsuarioServicio;
+import BoutiqueOnline.servicio.UsuarioServicio;
 import jakarta.servlet.http.HttpSession;
 import java.util.Optional;
 import org.slf4j.Logger;

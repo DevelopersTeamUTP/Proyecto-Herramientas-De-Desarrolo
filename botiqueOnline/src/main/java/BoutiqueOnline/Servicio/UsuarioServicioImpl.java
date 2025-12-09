@@ -1,20 +1,21 @@
+
 package BoutiqueOnline.Servicio;
 
 import BoutiqueOnline.Repositorio.UsuarioRepositorio;
 import BoutiqueOnline.modelo.Usuario;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 @Service
-public class UsuarioServicioImpl implements UsuarioServicio {
+public class UsuarioServicioImpl implements UsuarioServicio{
 
     @Autowired
     private UsuarioRepositorio usuarioRepositorio;
 
     @Override
-    public Optional<Usuario> finsById(Integer id) {
+    public Optional<Usuario> findById(Integer id) {
         return usuarioRepositorio.findById(id);
     }
 
@@ -32,13 +33,7 @@ public class UsuarioServicioImpl implements UsuarioServicio {
     public List<Usuario> findAll() {
         return usuarioRepositorio.findAll();
     }
-
-    @Override
-    public void deleteById(Integer id) {
-        usuarioRepositorio.deleteById(id);
-    }
+    
 
     
 }
-
-

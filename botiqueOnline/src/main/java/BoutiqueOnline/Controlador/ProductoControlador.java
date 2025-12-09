@@ -4,7 +4,7 @@ import BoutiqueOnline.Servicio.ProductoServicio;
 import BoutiqueOnline.Servicio.UploadFileService;
 import BoutiqueOnline.modelo.Producto;
 import BoutiqueOnline.modelo.Usuario;
-import BoutiqueOnline.Servicio.UsuarioServicio;
+import BoutiqueOnline.servicio.UsuarioServicio;
 import BoutiqueOnline.util.ListarProductosExcel;
 import BoutiqueOnline.util.ListarProductosPdf;
 import jakarta.servlet.http.HttpSession;

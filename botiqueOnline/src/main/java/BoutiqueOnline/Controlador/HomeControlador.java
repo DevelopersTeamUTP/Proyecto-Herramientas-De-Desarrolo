@@ -7,7 +7,7 @@ import BoutiqueOnline.modelo.DetalleOrden;
 import BoutiqueOnline.modelo.Orden;
 import BoutiqueOnline.modelo.Producto;
 import BoutiqueOnline.modelo.Usuario;
-import BoutiqueOnline.Servicio.UsuarioServicio;
+import BoutiqueOnline.servicio.UsuarioServicio;
 import jakarta.servlet.http.HttpSession;
 import java.util.ArrayList;
 import java.util.Date;

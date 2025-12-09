@@ -1,5 +1,5 @@
 
-package BoutiqueOnline.Servicio;
+package BoutiqueOnline.servicio;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
