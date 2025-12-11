@@ -30,14 +30,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-m2
 
-      # PASO OPTIMIZADO: Compila sin correr tests (ahorra tiempo)
+      # CORREGIDO: Solo construimos botiqueOnline
       - name: Build with Maven
-        run: |
-          mvn -B package -DskipTests
-          mvn -B package --file botiqueOnline/pom.xml -DskipTests
+        run: mvn -B package --file botiqueOnline/pom.xml -DskipTests
 
-      # PASO DE PRUEBAS: Aquí es donde validamos que el código funciona
+      # CORREGIDO: Solo testeamos botiqueOnline
       - name: Run Tests
-        run: |
-          mvn test
-          mvn test --file botiqueOnline/pom.xml
+        run: mvn test --file botiqueOnline/pom.xml
