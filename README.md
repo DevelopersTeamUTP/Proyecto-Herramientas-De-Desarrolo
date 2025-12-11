@@ -347,3 +347,53 @@ _Evidencia de la creación de la organización y commits iniciales._
   ![segundo milestone](./-images-/configDominio.png)
 - **Probamos las rutas con el dominio**
   ![segundo milestone](./-images-/rutaDominio.png)
+
+
+# Presentacion Final
+### 1. Configuracion de GitHub
+
+- Creacion del personal access token (PAT)
+
+![pat](./-images-/personalAccessToken.jpeg)
+
+- Agregar el PAT a Secret Variables
+
+![secretvariables](./-images-/secretVariables.jpeg)
+
+### 2. Codificacion del Dockerfile
+
+![dockerfile](./-images-/dockerfile.jpeg)
+
+### 3. Integracion continua y despliegue continuo
+
+![ciDocker](./-images-/ciDocker.jpeg)
+
+- Git Actions
+
+![gitActions](./-images-/gitActionsDocker.jpeg)
+
+- Package de GitHub
+
+![packages](./-images-/packages.jpeg)
+
+### 4. Integracion en Render
+
+- Base de datos en Railway
+
+![dbrailway](./-images-/dbrailway.jpeg)
+
+- Imagen subida a Render
+
+![deployRender](./-images-/deplyRender.jpeg)
+
+- Variables de entorno de Railway a Render
+
+![variableEntorno](./-images-/variableEntorno.jpeg)
+
+- Ejecucion
+
+![ejecucionRender](./-images-/ejecucionRender.jpeg)
+
+- Despliege ejecutado
+
+![depliegeEjecutado](./-images-/despliegeEjecutado.jpeg)
